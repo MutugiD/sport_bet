@@ -48,6 +48,8 @@ models/*
 !data/results/.gitkeep
 !models/.gitkeep
 
+# instructions
+instructions.txt
 # Logs
 logs/
 *.log
