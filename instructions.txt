@@ -1,0 +1,38 @@
+Building a model that can beat liquid betting markets
+I have a small challenge below that simulates the type of work
+
+Looking forward to seeing what you come up with.
+
+Phase 1: Independent Task (Problem-Solving & Execution)
+
+Challenge: NBA Player Points Prediction & Betting Model
+
+Build a predictive model that estimates how many points an NBA player will score in a game and use it to calculate fair value odds.
+
+Requirements:
+
+    Find and scrape historical NBA player data.
+    Clean and preprocess the data.
+    Build a predictive model to estimate a player’s points per game.
+    Calculate fair value odds for different player point totals (e.g., Over/Under 15.5, 20.5, etc.).
+    Compare your fair odds to the sportsbook's lines (from a site like DraftKings/FanDuel) and highlight discrepancies.
+    Backtest your model’s predictions against real results.
+
+Constraints:
+
+    You must use Python.
+    Do not use pre-built datasets—scrape the data yourself.
+    Solution via GitHub repository
+
+Deliverables:
+
+    A Python script containing the full workflow (data collection → model → odds calculations).
+    A brief write-up (1-2 paragraphs) explaining your approach.
+    A table comparing your fair odds to sportsbook lines with identified potential +EV bets.
+
+What I’m Evaluating:
+
+    Independence: Can you execute without excessive guidance?
+    Technical Execution: Are you proficient in data scraping, modeling, and fair odds calculations?
+    Understanding of Betting Concepts: Do you correctly compare fair odds to the market?
+    Unique Value: Are you finding insights that may not already be priced into the market?
